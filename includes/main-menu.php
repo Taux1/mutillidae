@@ -543,14 +543,14 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">A8 - Insecure Deserialization</a>
+					<a href="">A8 - Insecure Deserialization - Modified</a>
 					<ul>
-<li><a href="index.php?page=GenerateJSONSerializedLoggerFileAttackData.php">Generate JSON Serialized Logger File Attack Data</a></li>
-<li><a href="index.php?page=GenerateSerializedLoggerFileAttackData.php">Generate Serialized Logger File Attack Data</a></li>
-<li><a href="index.php?page=LoggerObjectSerializationPage.php">Serialization and Deserialization of Logger Class</a></li>
-<li><a href="index.php?page=EmployeeObjectSerializationPage.php">Employee Object Serialization Page</a></li>
-<li><a href="index.php?page=EmployeeObjectJSONSerializationPage.php">Employee Object JSON Serialization Page</a></li>
-</ul>
+						<li><a href="index.php?page=GenerateJSONSerializedLoggerFileAttackData.php">Generate JSON Serialized Logger File Attack Data</a></li>
+						<li><a href="index.php?page=GenerateSerializedLoggerFileAttackData.php">Generate Serialized Logger File Attack Data</a></li>
+						<li><a href="index.php?page=LoggerObjectSerializationPage.php">Serialization and Deserialization of Logger Class</a></li>
+						<li><a href="index.php?page=EmployeeObjectSerializationPage.php">Employee Object Serialization Page</a></li>
+						<li><a href="index.php?page=EmployeeObjectJSONSerializationPage.php">Employee Object JSON Serialization Page</a></li>
+					</ul>
 				</li>
 				<li>
 					<a href="">A9 - Using Components with Known Vulnerabilities</a>
